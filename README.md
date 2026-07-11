@@ -168,4 +168,4 @@ Open:
 myntra_analysis.ipynb
 ```
 
-and run all cells.
+and run all cells..
